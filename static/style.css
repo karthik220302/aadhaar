@@ -1,0 +1,169 @@
+body{
+    background-color: #f0f2f5;
+    overflow-x: hidden;
+    width:100%;
+    font-family: 'Libre Franklin', sans-serif;
+}
+.head{
+  width:13%;
+
+
+}
+.ima{
+  border-bottom: 1px ridge;
+  background: linear-gradient(119.54deg,#000046 0%,#1CB5E0 100%);
+    background-color: rgba(0, 0, 0, 0);
+    background-position-x: 0%;
+    background-position-y: 0%;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-image: linear-gradient(119.54deg, rgb(0, 0, 70) 0%, rgb(28, 181, 224) 100%);
+    background-size: auto;
+    background-origin: padding-box;
+    background-clip: border-box;
+    height: 30px;
+
+}
+.imc{
+  border-bottom: 1px ridge;
+  background: linear-gradient(119.54deg,#000046 0%,#1CB5E0 100%);
+    background-color: rgba(0, 0, 0, 0);
+    background-position-x: 0%;
+    background-position-y: 0%;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-image: linear-gradient(119.54deg, rgb(0, 0, 70) 0%, rgb(28, 181, 224) 100%);
+    background-size: auto;
+    background-origin: padding-box;
+    background-clip: border-box;
+    height: 40px;
+    color:white;
+    text-align: center;
+}
+.sty{
+  padding-top: 100px;
+}
+.conta{
+  background-color:  rgba(0, 0, 0, 0.15);
+  border: 1px solid;
+  padding: 10px;
+  padding-bottom: 50px;
+  box-shadow: 5px 10px;
+}
+.txta{
+  background-color: #FAFAFA;
+  border-color: #000046;
+  width: 40%;
+  resize: none;
+}
+
+
+#form{
+padding-top:4%;
+padding: 5%;
+text-align: center;
+margin: 0 auto;
+background-color: #f8f9fa !important;
+}
+
+#fom{
+  padding: 5%;
+  background-color: #ffffff;
+  text-align: center;
+  margin: 1% auto;
+  width: 80%;
+  box-shadow: 5px 10px 18px #888888;
+  border-radius:  25px;
+}
+
+form{
+  padding: 5%;
+  background-color: #ffffff;
+  text-align: center;
+  margin: 1% auto;
+  width: 40%;
+  box-shadow: 5px 10px 18px #888888;
+  border-radius:  25px;
+
+}
+button{
+  width: 70%;
+  margin: 1%;
+}
+.otpbox{
+  padding: 8%;
+}
+#languagebtn{
+  position: relative;
+  left:70%;
+  margin: 5px;
+  bottom:70%;
+  top:70%;
+}
+@media (max-width: 600px) {
+  form{
+     width: 100%;
+     padding-top:10% ;
+   }
+   .head{
+    width: 100px;
+   }
+   #fin{
+   width: 300px;
+ }
+}
+
+.Captcha{
+  width: 90%;
+  height: 10%;
+
+}
+.heading{
+  text-shadow: 0 0 3px blue;
+}
+
+.submit{
+  margin: 3%;
+}
+.end{
+  border-bottom: 1px ridge;
+  background: linear-gradient(119.54deg,#000046 0%,#1CB5E0 100%);
+    background-color: rgba(0, 0, 0, 0);
+    background-position-x: 0%;
+    background-position-y: 0%;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-image: linear-gradient(119.54deg, rgb(0, 0, 70) 0%, rgb(28, 181, 224) 100%);
+    background-size: auto;
+    background-origin: padding-box;
+    background-clip: border-box;
+    height: 15px;
+    margin-bottom: 10px;
+}
+.div{
+  border-bottom: 1px ridge;
+  background: linear-gradient(119.54deg,#000046 0%,#1CB5E0 100%);
+    background-color: rgba(0, 0, 0, 0);
+    background-position-x: 0%;
+    background-position-y: 0%;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-image: linear-gradient(119.54deg, rgb(0, 0, 70) 0%, rgb(28, 181, 224) 100%);
+    background-size: auto;
+    background-origin: padding-box;
+    background-clip: border-box;
+    height: 5px;
+
+}
+
+.language{
+  position: relative;
+  left: auto;
+}
+.tick{
+  width: 2.5%;
+  margin: 0 5px;
+}
+.ticker{
+  display: inline;
+}
